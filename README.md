@@ -1,16 +1,12 @@
-Script Title: 
-DuckyScript-Windows-ChangeWallpaper
+Script Title: DuckyScript-Windows-ChangeWallpaper
 
-Author: 
-dennis.n3dry
+Author: dennis.n3dry
 
-Duckencoder: 
-2.6.3
+Duckencoder: 2.6.3
 
-Target: 
-Windows 10
+Target: Windows 8, 8.1, 10
 
-Description: 
+Description:
 If the User forgets to lock their computer,this script will utilize Microsoft Edge to download a wallpaper of Dennis Nedry from Jurrasic Park. It then sets the image as the curent wallpaper.
 
 Customize the wallpaper by changing:
