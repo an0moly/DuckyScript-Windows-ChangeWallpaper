@@ -1,13 +1,9 @@
 # DuckyScript-Windows-ChangeWallpaper
+# Author: dennis.n3dry
+# Duckencoder: 2.6.3
+# Target: Windows 10
+# Description: If the User forgets to lock their computer, this script will utilize Microsoft Edge to go and grab a picture from Jurrasic Park showing Dennis Nedry and the famous line 'You didn't say the magic word'. Feel free to update the strings on line 14 and line 37 if you want to use your own image.
 
-REM DuckyScript-Windows-ChangeWallpaper
-REM
-REM Author: dennis.n3dry
-REM Duckencoder: 2.6.3
-REM Target: Windows 10
-REM Description: If the User forgets to lock their computer, this script will utilize Microsoft Edge to go and grab a picture
-REM from Jurrasic Park showing Dennis Nedry and the famous line 'You didn't say the magic word'. Feel free to update the strings on 
-REM line 14 and line 37 if you want to use your own image.
 DEFAULTDELAY 250
 DELAY 3000
 GUI r
